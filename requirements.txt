@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+torch
+cvxpy
+qpth
+roboticstoolbox-python
+
+-e .
+
